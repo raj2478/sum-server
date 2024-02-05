@@ -9,3 +9,4 @@ app.get('/sum', (req, res) => {
         result
     })
 })
+app.listen(8080)
